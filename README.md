@@ -5,7 +5,7 @@
 
 # Autoencoders
 
-Main goal of this repo is to try out different approaches to autoencoders to generate new samples. It is divided into 2 main categories:
+Main goal of this repo is to try out different approaches to autoencoders to generate new samples. It is divided into 2 main categories with standalone jupyter notebooks:
 
 ![linspace][image1]
 
